@@ -1,0 +1,105 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  height: 100vh;
+  overflow: scroll;
+  background: url("../assets/4.jpg") center / cover no-repeat;
+  .content {
+    display: grid;
+    grid-template-columns: 800px 450px;
+    &__page {
+      .formBox {
+        width: 100%;
+        height: auto;
+        margin-left: 40px;
+        margin-top: 15px;
+        // opacity: 0.3;
+        .form {
+          width: 100%;
+          height: auto;
+          padding-left: 15px;
+          padding-right: 15px;
+          label {
+            font-size: 20px;
+            font-weight: 400;
+            margin-bottom: 10px;
+            margin-top: 20px;
+          }
+          input {
+            width: 100%;
+            border: none;
+            height: 45px;
+            padding: 10px;
+            border-radius: 5px;
+            background-color: #fff;
+          }
+          textarea {
+            width: 100%;
+            border: none;
+            min-height: 80px;
+            padding: 10px;
+            border-radius: 5px;
+            background-color: #fff;
+          }
+          select {
+            border: none;
+            height: 45px;
+            padding: 10px;
+            border-radius: 5px;
+            background-color: #fff;
+          }
+          button {
+            border: none;
+            height: 45px;
+            width: auto;
+            padding: 10px;
+            background-color: #0b5ed7;
+            border-radius: 5px;
+            margin-left: 45px;
+            color: #fff;
+            font-weight: 500;
+          }
+        }
+        .filterCategory {
+          height: auto;
+          padding: 40px;
+          background-color: #fff;
+          margin-top: 20px;
+          border-radius: 5px;
+          label {
+            font-style: 20px;
+            margin-bottom: 20px;
+          }
+          .btngropu {
+            display: flex;
+            justify-content: space-between;
+          }
+        }
+      }
+    }
+    ul {
+      .card {
+        img {
+          margin-right: 15px;
+        }
+        .btnClose {
+          position: absolute;
+          width: 30px;
+          height: 30px;
+          border-radius: 50%;
+          left: -30px;
+          top: -20px;
+          border: none;
+          color: brown;
+          font-family: Arial, Helvetica, sans-serif;
+          font-weight: 700;
+        }
+      }
+    }
+  }
+}

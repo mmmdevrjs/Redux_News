@@ -1,0 +1,40 @@
+{
+  "news": [
+    {
+      "name": "O'zbekiston yangiliklari",
+      "description": "mtihonda qo‘lga tushgan abituriyentlar kirish imtihonlaridan 5-7 yilgacha chetlashtirilishi mumkin",
+      "category": "Iqtisod",
+      "id": "117d6046-400c-4c22-ba95-f4a316cbdff4"
+    },
+    {
+      "name": "O'zbekiston yangiliklari",
+      "description": "mtihonda qo‘lga tushgan abituriyentlar kirish imtihonlaridan 5-7 yilgacha chetlashtirilishi mumkin",
+      "category": "O'zbekiston",
+      "id": "3c4fbd8f-44dc-4e61-8061-1581bb56b84e"
+    },
+    {
+      "name": "O'zbekiston yangiliklari",
+      "description": "mtihonda qo‘lga tushgan abituriyentlar kirish imtihonlaridan 5-7 yilgacha chetlashtirilishi mumkin",
+      "category": "Jahon",
+      "id": "1011d2b3-1aa9-4f10-ba4e-d97f408668ff"
+    },
+    {
+      "name": "O'zbekiston yangiliklari",
+      "description": "O'zbekiston yangiliklari\nmtihonda qo‘lga tushgan abituriyentlar kirish imtihonlaridan 5-7 yilgacha chetlashtirilishi mumkin",
+      "category": "Jahon",
+      "id": "3faf3a46-d4a9-4cbd-ad5b-abdb24c2d07a"
+    },
+    {
+      "name": "`xzc",
+      "description": "sfcsd",
+      "category": "Iqtisod",
+      "id": "9f05118d-7269-47c6-a29b-7c0a88098df9"
+    },
+    {
+      "name": "sadf",
+      "description": "SCSDC",
+      "category": "O'zbekiston",
+      "id": "e3e8aa8c-fc35-4970-9618-281931f40812"
+    }
+  ]
+}
